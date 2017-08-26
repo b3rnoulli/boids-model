@@ -33,7 +33,7 @@ classdef Boid
             ali = obj.align(boids);
             coh = obj.cohesion(boids);
             
-            sep = sep.*10;
+            sep = sep.*15;
             ali = ali.*1.0;
             coh = coh.*1.0;
             

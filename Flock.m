@@ -42,7 +42,7 @@ classdef Flock
             fprintf('Rendering %s \n',num2str(obj.step_counter))
            
             for i=1:length(obj.boids)
-                delete(plane.boids_figure_handles(i));               
+                delete(plane.boids_figure_handles(i));
                 theta = atan2(norm(cross([obj.boids(i).velocity 0],[1 0 0])),dot([obj.boids(i).velocity 0],[1 0 0]));
                 x = [obj.boids(i).position(1)-2.5 obj.boids(i).position(1)+2.5 obj.boids(i).position(1)-2.5 obj.boids(i).position(1)-2.5];
                 y = [obj.boids(i).position(2)-1.5 obj.boids(i).position(2) obj.boids(i).position(2)+1.5 obj.boids(i).position(2)+1.5];

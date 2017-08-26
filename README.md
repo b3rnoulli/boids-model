@@ -13,9 +13,10 @@ As with most artificial life simulations, Boids is an example of emergent behavi
 * cohesion: steer to move toward the average position (center of mass) of local flockmates
 
 Example simulation result:
-
-
+![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_initial.png)
+![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_20_step.png)
+![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_100_step.png)
 
 For more information on Boid, please see:\
-[1] Reynolds, Craig (1987). "Flocks, herds and schools: A distributed behavioral model.". SIGGRAPH '87: Proceedings of the 14th annual conference on Computer graphics and interactive techniques. Association for Computing Machinery: 25?34
+[1] Reynolds, Craig (1987). "Flocks, herds and schools: A distributed behavioral model.". SIGGRAPH '87: Proceedings of the 14th annual conference on Computer graphics and interactive techniques. Association for Computing Machinery
 

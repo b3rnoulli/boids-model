@@ -14,11 +14,11 @@ As with most artificial life simulations, Boids is an example of emergent behavi
 
 __Example simulation result for 75 boids:__
 
-*Initial state
+* Initial state
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_initial.png)
-*After 20 time steps
+* After 20 time steps
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_20_step.png)
-*After 100 time steps
+* After 100 time steps
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_100_step.png)
 
 For more information on Boid, please see:\

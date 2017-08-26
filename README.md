@@ -13,6 +13,8 @@ As with most artificial life simulations, Boids is an example of emergent behavi
 * cohesion: steer to move toward the average position (center of mass) of local flockmates
 
 Example simulation result:
+<img src="images/boids_initial.png" alt="Drawing" style="width: 200px;"/>
+
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_initial.png =100x20)
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_20_step.png)
 ![alt tag](https://raw.github.com/b3rnoulli/boids/master/images/boids_100_step.png)
